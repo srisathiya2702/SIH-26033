@@ -36,6 +36,9 @@ Benefits:
 1. The system will be developed using HTML, CSS, JavaScript, Python Django, and MySQL. AI and machine learning techniques will be used for demand prediction and delivery planning.
 
 2. The implementation process starts with farmer registration and product listing. Buyers can search for products and place orders. The system then matches buyers with farmers, predicts demand, plans delivery routes, and updates the order status.
+
+<img width="996" height="680" alt="Screenshot 2026-11-24 153252" src="https://github.com/user-attachments/assets/9fbe5b06-2943-47be-b894-d3e584e9002e" />
+
    
 ## Feasibility and Viability
 1. The solution is feasible because it uses commonly available software technologies and can be developed as a simple web application. It can initially be tested with a small group of farmers.
